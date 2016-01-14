@@ -1,0 +1,36 @@
+body {
+	display: flex;
+	margin: 0;
+	position: absolute;
+	width: 100%;
+	height: 200vh;
+	justify-content: center;
+	align-items: center;
+	font-family: sans-serif, Arial;
+}
+
+#content {
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	height: 100%;
+}
+
+#controls {
+	position: fixed;
+	right: 40px;
+	top: 40px;
+	display: flex;
+	flex-direction: column;
+	justify-content: stretch;
+	align-items: flex-end;
+}
+
+select {
+	height: 2em;
+	margin: 1em;
+}
+
+#preview {
+	display: flex;
+}
