@@ -9,19 +9,19 @@ var colorselector = document.querySelector('#colorselector'),
 // ];
 //
 // var unapproved = [
-/* ['amethyst', '#702e60'],*/	['amethyst', '#702e60'],
-/* 	['white', '#FCFCF8'],*/	['white', '#f5f5f5'],
-/*	['true-blue', '#004e99'],*/  ['true-blue', '#01488c'],
-	['tropical-orange', '#f86925'],
-/*	['atlantic', '#12002f'],*/ 	['atlantic', '#101026'],
-/*	['claret', '#51001b'],*/  ['claret', '#4d0008'],
-/*	['inca-gold', '#c0cc00'],*/ ['inca-gold', '#e0e330'],
-	['patina', '#08888c'],
-/*	['rouge', '#d01050'],*/  ['rouge', '#cc1030'],
-/*	['bright-green', '#1cd01c'],*/  ['bright-green', '#13ba13'],
-/*	['flame', '#dd3915'],*/ ['flame', '#dd3915'],
-/*	['picante', '#96010f'],*/  ['picante', '#961e0f'],
-/*	['dark-seamist', '#00252a'],*/  ['dark-seamist', '#00292e']
+    ['amethyst', '#702e60'],     /* ['amethyst', '#702e60'],*/	
+    ['white', '#f5f5f5'],        /* 	['white', '#FCFCF8'],*/
+    ['true-blue', '#01488c'],    /*	['true-blue', '#004e99'],*/
+	  ['tropical-orange', '#f86925'],
+    ['atlantic', '#101026'],     /*	['atlantic', '#12002f'],*/
+    ['claret', '#4d0008'],       /*	['claret', '#51001b'],*/
+    ['inca-gold', '#e0e330'],    /*	['inca-gold', '#c0cc00'],*/
+  	['patina', '#08888c'],
+    ['rouge', '#cc1030'],        /*	['rouge', '#d01050'],*/
+    ['bright-green', '#13ba13'], /*	['bright-green', '#1cd01c'],*/
+    ['flame', '#dd3915'],        /*	['flame', '#dd3915'],*/
+    ['picante', '#961e0f'],      /*	['picante', '#96010f'],*/
+    ['dark-seamist', '#00292e']  /*	['dark-seamist', '#00252a'],*/
 ];
 
 var zoomedIn = false;
