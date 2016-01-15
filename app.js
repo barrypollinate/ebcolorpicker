@@ -5,13 +5,13 @@ var colorselector = document.querySelector('#colorselector'),
 	['ascent-blue', '#004B91'],
 	['black', '#222222'],
 	['cinder', '#525152'],
-	['cherry', '#941B1E'],
+	['cherry', '#ab1119'], /* ['cherry', '#941B1E'], */
 // ];
 //
 // var unapproved = [
-    ['amethyst', '#702e60'],     /* ['amethyst', '#702e60'],*/	
+    ['amethyst', '#702e60'],     /* ['amethyst', '#702e60'],*/
     ['white', '#f5f5f5'],        /* 	['white', '#FCFCF8'],*/
-    ['true-blue', '#01488c'],    /*	['true-blue', '#004e99'],*/
+    ['true-blue', '#053969'],    /*	['true-blue', '#004e99'],*/
 	  ['tropical-orange', '#f86925'],
     ['atlantic', '#101026'],     /*	['atlantic', '#12002f'],*/
     ['claret', '#4d0008'],       /*	['claret', '#51001b'],*/
